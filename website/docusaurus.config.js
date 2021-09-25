@@ -32,8 +32,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'NewsReel Programming Guide',
-              href: 'https://github.com/post-programming/Art-of-NewsReel-Programming'
+              label: 'Art of NewsReeL',
+              href: 'https://github.com/setscript/Art-of-NewsReeL'
             }
           ]
         },
@@ -46,7 +46,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/post-programming/post-programming'
+              href: 'https://github.com/setscript/post-programming'
             }
           ]
         },
@@ -55,7 +55,7 @@ module.exports = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/shankara_sutra'
+              href: 'https://twitter.com/zuxoszx'
             }
           ]
         }
