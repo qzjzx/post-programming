@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/post-programming/post-programming',
+          href: 'https://github.com/setscript/post-programming',
           label: 'GitHub',
           position: 'right'
         }
