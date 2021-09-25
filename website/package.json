@@ -1,0 +1,16 @@
+{
+    "name": "website",
+    "version": "0.0.105",
+    "scripts": {
+        "start": "docusaurus start",
+        "build": "docusaurus build",
+        "serve": "docusaurus serve"
+    },
+    "dependencies": {
+        "@docusaurus/core": "^2.0.0-beta.4",
+        "@docusaurus/preset-classic": "^2.0.0-beta.4",
+        "clsx": "^1.1.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
