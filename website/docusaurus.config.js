@@ -32,8 +32,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Art of NewsReeL',
-              href: 'https://github.com/setscript/Art-of-NewsReeL'
+              label: 'Art of NewsReel',
+              href: 'https://github.com/setscript/Art-of-NewsReel'
             }
           ]
         },
