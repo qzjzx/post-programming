@@ -23,7 +23,7 @@
   
   ## Pointfree
 
-* `Launch: 'sea-fresh' as plugins/extensions for local/cloud instances of monod`
+* `Launch: Refactorial Combinatorics as plugins/extensions for local/cloud instances of di-monod`
 * `Surf: Autonomous Read-Write-Containers transpiling/automating Developer Workflow BlockChains/SideChains`
 * `Export: Programmer Jobs/Tasks as Git Repos`
   
