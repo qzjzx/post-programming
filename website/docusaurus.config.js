@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/setscript/post-programming',
+          href: 'https://github.com/qzjzx/post-programming',
           label: 'GitHub',
           position: 'right'
         }
@@ -33,7 +33,7 @@ module.exports = {
           items: [
             {
               label: 'Art of NewsReel',
-              href: 'https://github.com/setscript/Art-of-NewsReel'
+              href: 'https://github.com/qzjzx/Art-of-NewsReel'
             }
           ]
         },
@@ -46,7 +46,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/setscript/post-programming'
+              href: 'https://github.com/qzjzx/post-programming'
             }
           ]
         },
