@@ -40,3 +40,14 @@
   <p align="center">
   <img alt="Code" src="https://raw.githubusercontent.com/setscript/post-programming/main/read.png" height="450" />
   </p>
+
+<h2 align="center">write</h2>
+
+  <br/>
+  <br/>
+  <br/>
+
+* Chinese :: 
+简体字, i.e. Program Paradigm Abstract 
+
+
