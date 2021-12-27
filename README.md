@@ -47,7 +47,7 @@
   <br/>
   <br/>
 
-* Chinese :: 
-简体字, i.e. Program Paradigm Abstract 
+* chinese :: 简体字, i.e. Program Paradigm Abstract 
+* PXE :: $ 600
 
 
