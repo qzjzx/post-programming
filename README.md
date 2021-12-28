@@ -52,3 +52,4 @@
 * #MeToo + #MenToo =% rent
 * paste - bin - die
 * copy * sweep * cut
+* ToR × EoR × XoR
