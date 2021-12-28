@@ -53,3 +53,4 @@
 * paste - bin - die
 * copy * sweep * cut
 * ToR × EoR × XoR
+* carding parallax parallel 
