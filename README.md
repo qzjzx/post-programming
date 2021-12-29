@@ -59,5 +59,6 @@
 * NFC NAND NFT
 * 1 light year 59'
 * hindi :: क, ख, ग, घ, i.e. Mapping Technologies etc. 
+* ¬ [ interest, relevance, trends ] 
 
 ##
