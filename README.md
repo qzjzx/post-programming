@@ -57,6 +57,6 @@
 * planar card eSiM 
 * quantum compton loopback 
 * NFC NAND NFT
-
+* 1 light year 59'
 
 ##
