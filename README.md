@@ -59,7 +59,7 @@
 * quantum compton loopback 
 * NFC NAND NFT
 * 1 light year 59'
-* क, ख, ग, घ, i.e. Mapping Technologies etc. 
+* क, ख, ग, i.e. Mapping Technologies etc. 
 * ¬ [ interest, relevance, trends ] 
 * ({ owner ~ 0, role ~ 1, ethic ~ -1 }) 
 * _mutable ¶ &immutable §
