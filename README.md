@@ -47,7 +47,8 @@
   <br/>
   <br/>
 
-* chinese :: 简体字, i.e. Program Paradigm Abstract 
+* VLFI ( very large finite integration ) 
+* chinese :: 简体字, i.e. program paradigm abstract 
 * PXE :: $ 600
 * #MeToo + #MenToo =% rent
 * paste - bin - die
