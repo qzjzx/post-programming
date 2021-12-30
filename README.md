@@ -66,5 +66,6 @@
 * investment circumvent company
 * emoji [ block, compute, ops ] 
 * Millimetre Sub-GHz Light
+* uniApp < uniType < SDR >>
 
 ##
