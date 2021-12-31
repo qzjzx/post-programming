@@ -6,7 +6,7 @@
  
   
   <p align="center">
-  <img alt="Code" src="https://raw.githubusercontent.com/setscript/post-programming/main/website/static/img/icon.png" height="180" />
+  <img alt="Code" src="https://raw.githubusercontent.com/qzjzx/post-programming/main/website/static/img/icon.png" height="180" />
   </p>
   
   <br/>
@@ -38,7 +38,7 @@
  
   
   <p align="center">
-  <img alt="Code" src="https://raw.githubusercontent.com/setscript/post-programming/main/read.png" height="450" />
+  <img alt="Code" src="https://raw.githubusercontent.com/qzjzx/post-programming/main/read.png" height="450" />
   </p>
 
 <h2 align="center">write</h2>
@@ -75,3 +75,8 @@
 
 
 ##
+
+
+ <p align="center">
+  <img alt="Code" src="https://raw.githubusercontent.com/qzjzx/post-programming/main/write.png" height="180" />
+  </p>
