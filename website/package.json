@@ -2,7 +2,7 @@
     "name": "website",
     "version": "0.0.111",
     "engines": {
-          "node": ">= 17.3.0"
+          "node": ">= 14"
     },
 
     "scripts": {
