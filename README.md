@@ -69,5 +69,7 @@
 * uniApp < uniType < SDR >>
 * private = 21, public = 22, parametric = metaverse
 * slice macro time
+* engine battery awacs
+
 
 ##
