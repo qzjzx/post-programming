@@ -66,7 +66,7 @@
 * investment circumvent company
 * emoji [ block, compute, ops ] 
 * Millimetre Sub-GHz Light
-* uniApp < uniType < SDR >>
+* uniApp < uniType < SDR >> `.com`
 * private = 21, public = 22, parametric = metaverse
 * slice macro time
 * engine battery awacs
