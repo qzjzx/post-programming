@@ -47,7 +47,7 @@
   <br/>
   <br/>
 
-* Wi-SUN( WiMAX :: Wi-Fi ) 
+* Wi-SUN( WiMAX :: Wi-Fi ) `LoRaWAN`
 * 简体字, i.e. program paradigm abstract 
 * PXE :: $ 600
 * #MeToo + #MenToo =% rent
