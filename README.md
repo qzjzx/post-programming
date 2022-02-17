@@ -60,7 +60,7 @@
 * 1 light year 59' `os`
 * क, ख, ग, i.e. Mapping Technologies etc `fabric`
 * ¬ [ interest, relevance, trends ] `camera`
-* ({ owner ~ 0, role ~ 1, ethic ~ -1 }) 
+* ({ owner ~ 0, role ~ 1, ethic ~ -1 }) `lens`
 * _mutable ¶ &immutable § `OvS`
 * investment circumvent company
 * emoji [ block, compute, ops ] 
