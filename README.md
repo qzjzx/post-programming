@@ -63,7 +63,7 @@
 * ({ owner ~ 0, role ~ 1, ethic ~ -1 }) `lens`
 * _mutable ¶ &immutable § `OvS`
 * investment circumvent company `sensor`
-* emoji [ block, compute, ops ] 
+* emoji [ block, compute, ops ] `blockchain`
 * Millimetre Sub-GHz Light
 * uniApp < uniType < SDR >> `.com`
 * private = 21, public = 22, parametric = metaverse
