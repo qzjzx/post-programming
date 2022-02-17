@@ -55,7 +55,7 @@
 * copy * sweep * cut
 * ToR × EoR × XoR
 * carding parallax parallel 
-* planar card eSiM 
+* planar card eSiM `RISC-V`
 * quantum compton loopback 
 * NFC NAND NFT
 * 1 light year 59'
