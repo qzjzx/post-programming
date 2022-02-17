@@ -52,7 +52,7 @@
 * PXE :: 144 Hz
 * paste - bin - die
 * copy * sweep * cut
-* ToR × EoR × XoR
+* ToR × EoR × XoR `discrete`
 * carding parallax parallel 
 * planar card eSiM `RISC-V`
 * quantum compton loopback 
