@@ -66,7 +66,7 @@
 * emoji [ block, compute, ops ] `blockchain`
 * Millimetre Sub-GHz Light `hyperlink`
 * uniApp < uniType < SDR >> `.com`
-* private = 21, public = 22, parametric = metaverse
+* private = 21, public = 22, parametric = metaverse `hypertransport`
 * slice macro time
 * engine battery awacs
 * browser crystal dark
