@@ -53,7 +53,7 @@
 * paste - bin - die `vlan`
 * copy * sweep * cut `wlan`
 * ToR × EoR × XoR `discrete`
-* carding parallax parallel 
+* carding parallax parallel `lan`
 * planar card eSiM `RISC-V`
 * quantum compton loopback 
 * NFC NAND NFT
