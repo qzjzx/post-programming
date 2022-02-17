@@ -67,7 +67,7 @@
 * Millimetre Sub-GHz Light `hyperlink`
 * uniApp < uniType < SDR >> `.com`
 * private = 21, public = 22, parametric = metaverse `hypertransport`
-* slice macro time
+* slice macro time `xhttp`
 * engine battery awacs
 * browser crystal dark
 * Li Na Fl `it`
