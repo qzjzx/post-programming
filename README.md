@@ -62,7 +62,7 @@
 * ¬ [ interest, relevance, trends ] `camera`
 * ({ owner ~ 0, role ~ 1, ethic ~ -1 }) `lens`
 * _mutable ¶ &immutable § `OvS`
-* investment circumvent company
+* investment circumvent company `sensor`
 * emoji [ block, compute, ops ] 
 * Millimetre Sub-GHz Light
 * uniApp < uniType < SDR >> `.com`
