@@ -49,8 +49,7 @@
 
 * Wi-SUN( WiMAX :: Wi-Fi ) `LoRaWAN`
 * 简体字, i.e. program paradigm abstract 
-* PXE :: $ 600
-* #MeToo + #MenToo =% rent
+* PXE :: 144 Hz
 * paste - bin - die
 * copy * sweep * cut
 * ToR × EoR × XoR
@@ -62,7 +61,7 @@
 * क, ख, ग, i.e. Mapping Technologies etc 
 * ¬ [ interest, relevance, trends ] 
 * ({ owner ~ 0, role ~ 1, ethic ~ -1 }) 
-* _mutable ¶ &immutable §
+* _mutable ¶ &immutable § `OvS`
 * investment circumvent company
 * emoji [ block, compute, ops ] 
 * Millimetre Sub-GHz Light
