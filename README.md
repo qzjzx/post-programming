@@ -58,7 +58,7 @@
 * quantum compton loopback `wan`
 * NFC NAND NFT `time`
 * 1 light year 59' `os`
-* क, ख, ग, i.e. Mapping Technologies etc 
+* क, ख, ग, i.e. Mapping Technologies etc `fabric`
 * ¬ [ interest, relevance, trends ] 
 * ({ owner ~ 0, role ~ 1, ethic ~ -1 }) 
 * _mutable ¶ &immutable § `OvS`
