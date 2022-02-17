@@ -69,7 +69,7 @@
 * private = 21, public = 22, parametric = metaverse `hypertransport`
 * slice macro time `xhttp`
 * engine battery awacs `packet`
-* browser crystal dark
+* browser crystal dark `gps`
 * Li Na Fl `it`
 * public = fiance, private = finance, key = music
 
