@@ -48,7 +48,7 @@
   <br/>
 
 * Wi-SUN( WiMAX :: Wi-Fi ) `LoRaWAN`
-* 简体字, i.e. program paradigm abstract 
+* 简体字, i.e. program paradigm abstract `gpu`
 * PXE :: 144 Hz `cpu`
 * paste - bin - die
 * copy * sweep * cut
