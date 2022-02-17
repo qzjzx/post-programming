@@ -56,7 +56,7 @@
 * carding parallax parallel `lan`
 * planar card eSiM `RISC-V`
 * quantum compton loopback `wan`
-* NFC NAND NFT
+* NFC NAND NFT `time`
 * 1 light year 59'
 * क, ख, ग, i.e. Mapping Technologies etc 
 * ¬ [ interest, relevance, trends ] 
