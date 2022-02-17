@@ -68,7 +68,7 @@
 * uniApp < uniType < SDR >> `.com`
 * private = 21, public = 22, parametric = metaverse `hypertransport`
 * slice macro time `xhttp`
-* engine battery awacs
+* engine battery awacs `packet`
 * browser crystal dark
 * Li Na Fl `it`
 * public = fiance, private = finance, key = music
