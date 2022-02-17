@@ -55,7 +55,7 @@
 * ToR × EoR × XoR `discrete`
 * carding parallax parallel `lan`
 * planar card eSiM `RISC-V`
-* quantum compton loopback 
+* quantum compton loopback `wan`
 * NFC NAND NFT
 * 1 light year 59'
 * क, ख, ग, i.e. Mapping Technologies etc 
