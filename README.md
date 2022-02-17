@@ -64,7 +64,7 @@
 * _mutable ¶ &immutable § `OvS`
 * investment circumvent company `sensor`
 * emoji [ block, compute, ops ] `blockchain`
-* Millimetre Sub-GHz Light
+* Millimetre Sub-GHz Light `hyperlink`
 * uniApp < uniType < SDR >> `.com`
 * private = 21, public = 22, parametric = metaverse
 * slice macro time
